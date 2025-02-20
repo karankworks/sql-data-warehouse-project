@@ -95,6 +95,5 @@ Hi there! I'm **Karan Katariya**. I’m an Business and Data Analyst professiona
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
-[![LinkedIn](https://www.linkedin.com/in/karan-katariya-534794195/)
-[![Website](https://www.datascienceportfol.io/karankworks)
+Website - https://www.datascienceportfol.io/karankworks
 
