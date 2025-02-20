@@ -91,7 +91,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Karan Katariya**. I’m an Business and Data Analyst professional 
+Hi there! I'm **Karan Katariya**. I’m a Business and Data Analyst professional 
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
